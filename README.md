@@ -1,7 +1,7 @@
 # animated_plots_with_python_for_LaTeX
 Create animated plots with python to implement in LaTeX
 
-##Creat animated plots of 1D or 2D mathematical objects to eventually implement in LaTeX for publishing. 
+## Creat animated plots of 1D or 2D mathematical objects to eventually implement in LaTeX for publishing. 
 
 Every part of this project contains sample code to do the following: 
 * Create 1D animated plots (e.g. graphs of functions) and implement them in LaTeX
